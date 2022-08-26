@@ -26,6 +26,5 @@ The Jenkins project provides official distributions as WAR files, Docker images,
 
 
 
-https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04
+[Downloads]:https://www.jenkins.io/download/
 
-[Downloads]:(https://www.jenkins.io/download/)# jenkins
